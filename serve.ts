@@ -81,6 +81,11 @@ async function handleRequest(request: Request): Promise<Response> {
     version,
     url: info.at(version),
     timestamp: Date.now(),
+  }, {
+    headers: {
+      "Cache-Control": "public, max-age=3600",
+      "Access-Control-Allow-Origin": "*",
+    },
   });
 }
 
