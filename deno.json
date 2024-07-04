@@ -1,5 +1,8 @@
 {
   "imports": {
-    "nudd/": "https://deno.land/x/nudd@v0.2.5/"
+    "nudd/": "https://deno.land/x/nudd@v0.2.6/"
+  },
+  "tasks": {
+    "serve": "deno serve --allow-net serve.ts"
   }
 }

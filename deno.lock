@@ -76,6 +76,22 @@
     "https://deno.land/x/nudd@v0.2.5/registry/paxdeno.ts": "e289b51fcb489596aa63e094e05713a72c420cdfd41e2187034c79a15c17ce5f",
     "https://deno.land/x/nudd@v0.2.5/registry/skypack.ts": "d2bdf373760f46bc8c754920a589088a87706562552c46c819743de677a2bf74",
     "https://deno.land/x/nudd@v0.2.5/registry/unpkg.ts": "e6252ab1c711bb26fbcf86c041e1ab238c7db46b524e9f37e2a95e059325a5e6",
-    "https://deno.land/x/nudd@v0.2.5/registry/utils.ts": "f5735e5ead4a877466f8eb6f6bd1d3f2b437ae101aee2ff59907b5878a5fef9f"
+    "https://deno.land/x/nudd@v0.2.5/registry/utils.ts": "f5735e5ead4a877466f8eb6f6bd1d3f2b437ae101aee2ff59907b5878a5fef9f",
+    "https://deno.land/x/nudd@v0.2.6/deps.ts": "3c605a52a62eefe9892b77e1b91f781562a6b8791c7c9b49ad62d0c761e18f70",
+    "https://deno.land/x/nudd@v0.2.6/registry/denoland.ts": "ea0d74c75347e2eb2da559299c566978f97b2bec990f72b5dbf5da5316922412",
+    "https://deno.land/x/nudd@v0.2.6/registry/denopkg.ts": "0678e6abaa1027c65ae90aa0706ff7b08dd1adb295c51658a41493c50bde1d57",
+    "https://deno.land/x/nudd@v0.2.6/registry/denore.ts": "231938cd1a33b020bc88ffddbf3e6fe98f0389938337b2cc1ee074590a298a68",
+    "https://deno.land/x/nudd@v0.2.6/registry/esm.ts": "473f8fb3fa299f7ac9dcead2da98a3d6a3638f27404dfaaadc2d9128507a7062",
+    "https://deno.land/x/nudd@v0.2.6/registry/github.ts": "8d1cfe278524fe2cd31911ed0ec7d91fce25a94fb59beab0cbeeed36ea43d5cb",
+    "https://deno.land/x/nudd@v0.2.6/registry/gitlab.ts": "d70d22d3c289892a88a995591379e1f35fe7456a591c1cf7a9b8b6c5cad3e253",
+    "https://deno.land/x/nudd@v0.2.6/registry/jsdelivr.ts": "1cb0787562bcefe5b03e784ebad2696150cb828905e32fbdd0d8b43dbfef3379",
+    "https://deno.land/x/nudd@v0.2.6/registry/jspm.ts": "f43029143b48c1a5fbd43ece05a1fbb129c13f45e9033e704a49c184f619f0ff",
+    "https://deno.land/x/nudd@v0.2.6/registry/jsr.ts": "5dbbf06f2d90ed67dfa05923fc10af07ed090876fb26e38503052676275e9b77",
+    "https://deno.land/x/nudd@v0.2.6/registry/nestland.ts": "a303fb08dcd90b619bec4927a8ef685a2f410dbdf417bd978c0d80d63f1836a1",
+    "https://deno.land/x/nudd@v0.2.6/registry/npm.ts": "015b657c746b0fc76df2c98fb277e5a4fb8a984d18e7b93fae9f26c114ee21f5",
+    "https://deno.land/x/nudd@v0.2.6/registry/paxdeno.ts": "6ebf8da52dba27d0e50b16ce96953b994b4465a94f2ef95b317a2720c7e6c660",
+    "https://deno.land/x/nudd@v0.2.6/registry/skypack.ts": "a4b53d2d204a99151dd26bf4f95ffeebd3e7d0cd52ef4742c4db296ba48944c7",
+    "https://deno.land/x/nudd@v0.2.6/registry/unpkg.ts": "3d53cc17a422280c2ed05c78e3f75b451ab0bbb0a007b92b93ba8fd243c5440f",
+    "https://deno.land/x/nudd@v0.2.6/registry/utils.ts": "0da451cf958b2686b88c8f911090f1b82f20114040c18482eba110fac694f460"
   }
 }

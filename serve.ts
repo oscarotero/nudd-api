@@ -79,7 +79,8 @@ async function handleRequest(request: Request): Promise<Response> {
     name,
     type: R.type,
     version,
-    url: info.at(version),
+    specifier: info.at(version),
+    url: info.packageUrl,
     timestamp: Date.now(),
   }, {
     headers: {
