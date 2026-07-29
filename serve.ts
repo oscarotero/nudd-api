@@ -78,7 +78,7 @@ async function handleRequest(request: Request): Promise<Response> {
   return Response.json({
     name,
     type: R.type,
-    version,
+    version: version.replace(/^v/, ""),
     specifier: info.at(version),
     url: info.packageUrl,
     timestamp: Date.now(),
